@@ -1,0 +1,2 @@
+Archivo de prueba del laboratorio ICC4203.
+Este objeto debe permanecer privado en S3. No contiene información confidencial.
